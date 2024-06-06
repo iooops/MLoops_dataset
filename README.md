@@ -8,7 +8,7 @@ The processed data can be accessed at https://drive.google.com/drive/folders/12W
 
 # Running the Code
 
-Once you download the data, you can run the code in this repository.
+Once you have downloaded the data, you can run the code in this repository.
 
 Before running the code in `data_analysis_benchmarking.ipynb` and `tempo_cnn.ipynb`, remember to set the environment variable `MLOOPS_DIR` in the notebook.
 
